@@ -128,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "pipesApp"
+  "defaultProject": "pipesApp",
+  "cli": {
+    "analytics": "8b7de301-a884-4e72-9df2-8549b683a6a1"
+  }
 }
